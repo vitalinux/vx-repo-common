@@ -1,0 +1,13 @@
+Source: vx-repo-common
+Section: utils
+Priority: extra
+Maintainer: Alberto Gacías <alberto@migasfree.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://github.com/vitalinux
+
+Package: vx-repo-common
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${python:Depends}
+Description: Install common repository vitalinux
+ Install common repository for vitalinux systems

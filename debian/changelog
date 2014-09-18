@@ -1,5 +1,11 @@
+vx-repo-common (1.1-1) unstable; urgency=low
+
+  * Changed to server:migasfree.vitalinux.org, version:VX-BASE, repository:BASE (close #1)
+
+ -- Alberto Gacías <alberto@migasfree.org>  Thu, 18 Sep 2014 08:33:06 +0200
+
 vx-repo-common (1.0-1) unstable; urgency=low
 
   * First version of package
 
- -- Alberto Gacías <alberto@migasfree.org>  Wed, 04 Dic 2013 18:42:06 +0200
+ -- Alberto Gacías <alberto@migasfree.org>  Wed, 04 Dec 2013 18:42:06 +0200

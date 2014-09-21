@@ -1,3 +1,9 @@
+vx-repo-common (1.2-1) unstable; urgency=low
+
+  * Changed repository:BASE to base (close #2)
+
+ -- Alberto Gacías <alberto@migasfree.org>  Thu, 21 Sep 2014 06:45:06 +0200
+
 vx-repo-common (1.1-1) unstable; urgency=low
 
   * Changed to server:migasfree.vitalinux.org, version:VX-BASE, repository:BASE (close #1)
